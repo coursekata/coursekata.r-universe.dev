@@ -2,5 +2,11 @@
   {
     "package": "coursekata",
     "url": "https://github.com/coursekata/coursekata-r"
+  },
+  {
+    "package": "ckdata",
+    "url": "https://github.com/coursekata/ckdata",
+    "subdir": "r",
+    "branch": "*release"
   }
 ]
